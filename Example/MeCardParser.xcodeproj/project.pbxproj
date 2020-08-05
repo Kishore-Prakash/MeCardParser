@@ -154,7 +154,6 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = LY23UJK654;
 						LastSwiftMigration = 0900;
 					};
 				};
@@ -371,7 +370,7 @@
 			baseConfigurationReference = E038EE94D614286222189666 /* Pods-MeCardParser_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = LY23UJK654;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MeCardParser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -387,7 +386,7 @@
 			baseConfigurationReference = 75F1D4347A641FC5768D14BC /* Pods-MeCardParser_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = LY23UJK654;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MeCardParser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
